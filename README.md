@@ -31,6 +31,6 @@ Implementation:
 
 - Copy the modules_front_page_categories_image.json into ClicShopping/Work/Cache/Github (manual installation)
 
-Marketplace link : https://www.clicshopping.org/forum/files/file/53-modules-front-page-categories-image/
+Marketplace link : https://www.clicshopping.org/forum/files/file/47-modules-front-page-categories-image/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_front_page_categories_image/blob/master/ModuleInfosJson/image.png)
